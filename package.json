@@ -1,0 +1,24 @@
+{
+  "name": "ersteapp",
+  "version": "1.0.0",
+  "description": "Meine erste React App zum spielen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiron030/nummereins.git"
+  },
+  "keywords": [
+    "Spielen",
+    "Lernen",
+    "Experimentieren"
+  ],
+  "author": "RK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiron030/nummereins/issues"
+  },
+  "homepage": "https://github.com/Kiron030/nummereins#readme"
+}
